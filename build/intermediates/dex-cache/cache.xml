@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/home/egordeev/AndroidstudioProjects/GeoTask/geoTask/build/intermediates/pre-dexed/debug/classes-4c8fadf2e7d3680a89aac1eb023296c158336960.jar"
+        jar="/home/egordeev/AndroidstudioProjects/GeoTask/geoTask/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77"/>
+    <item
+        dex="/home/egordeev/AndroidstudioProjects/GeoTask/geoTask/build/intermediates/pre-dexed/debug/classes-c1fe378bf8c57f6b9c0386fb1903ae0530f2d9a7.jar"
+        jar="/home/egordeev/AndroidstudioProjects/GeoTask/geoTask/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.0.89/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d71573c9c5ea98a8db47ad6ff993a63d492b3bfa"/>
+    <item
+        dex="/home/egordeev/AndroidstudioProjects/GeoTask/geoTask/build/intermediates/pre-dexed/debug/support-v4-19.1.0-d6a6cf61891a486f84545ad9ff4a9e95790af395.jar"
+        jar="/home/egordeev/android-studio/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+    <item
+        dex="/home/egordeev/AndroidstudioProjects/GeoTask/geoTask/build/intermediates/pre-dexed/debug/classes-02115a6a05322c359c1ca9cad46e62a1b8a8cb1d.jar"
+        jar="/home/egordeev/AndroidstudioProjects/GeoTask/geoTask/build/intermediates/exploded-aar/GeoTask/androidsupportv7appcompat/unspecified/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="5290e5d21eb6c787a610addfded3fd1c1ac66cb5"/>
+
+</pre-dex-items>
